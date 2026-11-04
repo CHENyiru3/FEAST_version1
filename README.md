@@ -1,5 +1,7 @@
 # FEAST | From features to slice: parameter-cloud modeling of spatial transcriptomics for simulation and 3D interpolatory augmentation
 
+!! Notice: current repo is forked from https://github.com/maiziezhoulab/FEAST, fixed to the version of the version 1 of FEAST preprint. Since the FEAST has a major refactor (for example, interpolation task is removed from the new version), if you are interested in the previous version and function please have a look. Please let me know there is any issue.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
